@@ -13,3 +13,6 @@ ignoring things
 commit logs
 git log shows us all the commits that were made
 git log --oneline shows a summary of all commits
+
+diffs
+git diff <old commit> <new commit> givesthe difference between two commits

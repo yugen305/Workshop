@@ -20,3 +20,8 @@ git diff <old commit> <new commit> givesthe difference between two commits
 
 commits
 We can commit selected changes by using git commit -p
+
+Branches
+Git branches are like different universes we can experiment in
+git branch shows all our branches
+To create a new branch, use git branch <name>

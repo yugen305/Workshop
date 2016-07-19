@@ -1,2 +1,14 @@
 init
-git init is used to
+git init is used to create a repository
+
+status
+git status tells us the state of our working directory
+
+Add
+git add tells git to track specific files or folders
+
+ignoring things
+.gitignore files tell git what to completely ignore
+
+commit logs
+git log shows us all the commits that were made

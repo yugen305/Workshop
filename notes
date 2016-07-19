@@ -17,3 +17,6 @@ git log --oneline shows a summary of all commits
 
 diffs
 git diff <old commit> <new commit> givesthe difference between two commits
+
+commits
+We can commit selected changes by using git commit -p

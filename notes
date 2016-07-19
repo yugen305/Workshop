@@ -12,3 +12,4 @@ ignoring things
 
 commit logs
 git log shows us all the commits that were made
+git log --oneline shows a summary of all commits

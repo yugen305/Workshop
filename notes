@@ -20,3 +20,7 @@ git diff <old commit> <new commit> givesthe difference between two commits
 
 commits
 We can commit selected changes by using git commit -p
+
+Checkout
+git checkout <branch name> switches to the branch
+Branches aren't automatically updated

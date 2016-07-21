@@ -30,6 +30,8 @@ To create a new branch, use git branch <name>
 Checkout
 git checkout <branch name> switches to the branch
 Branches aren't automatically updated
+git checkout shifts the HEAD pointer around
+We can visit an older commit using checkout <commit>
 
 Merging
 To merge changes from one branch into the another use git merge <branch name>

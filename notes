@@ -31,3 +31,7 @@ Checkout
 git checkout <branch name> switches to the branch
 Branches aren't automatically updated
 
+Merging
+To merge changes from one branch into the another use git merge <branch name>
+conflicts occur if we make changes that git can't automatically combine.
+To fix a conflict, edit the file to be the way we want, then save and commit.

@@ -37,3 +37,7 @@ Merging
 To merge changes from one branch into the another use git merge <branch name>
 conflicts occur if we make changes that git can't automatically combine.
 To fix a conflict, edit the file to be the way we want, then save and commit.
+
+Undoing things
+To replace a single file with an older version, use git checkout <commit> <file>
+To undo and entire commit, git revert <commit>
